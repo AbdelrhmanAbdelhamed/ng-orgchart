@@ -1,7 +1,7 @@
 {
   "name": "@abdelrahman-abdelhamed/ng-orgchart",
   "description": "organization chart component based angular",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "@angular/common": "^8.0.3",
     "@angular/core": "^8.0.3"
